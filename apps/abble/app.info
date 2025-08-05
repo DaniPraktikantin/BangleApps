@@ -1,0 +1,10 @@
+{
+  "id": "abble",
+  "name": "Abble",
+  "type": "clock",
+  "src": "clock.js",
+  "icon": "icon.png",
+  "sortorder": 10,
+  "version": "1.0",
+  "description": "Die Abble-Uhr – minimalistischer Digital-Style mit Touch, Swipe und Sportmodus."
+}
